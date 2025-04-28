@@ -8,7 +8,7 @@ Additions from video:
 
 Screenshot of the headset view (not yet available):
 
-
+![image](https://github.com/user-attachments/assets/3d21de11-dc71-4e3e-826b-c74d2e2a9722)
 
 Issues Encountered:
   -Issue with input system action reference. I had to comment out the Unity code to get things working properly. Unity has a problem with this specific Unity version that causes this error
